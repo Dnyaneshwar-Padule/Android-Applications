@@ -1,0 +1,73 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+captures/
+
+# Gradle files
+.gradle/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Android Studio navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# NDK
+.externalNativeBuild/
+.cxx/
+
+# Google Services
+google-services.json
+
+# Firebase Crashlytics / Fabric
+fabric.properties
+
+# Kotlin (safe even for Java projects)
+.kotlin/
+
+# Signing configs and secret properties
+signing.properties
+keystore.properties
+
+# Gradle wrapper (keep the wrapper JAR and properties, ignore only cache)
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# If using app-specific generated files
+app/build/
